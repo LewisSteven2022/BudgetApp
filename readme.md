@@ -15,6 +15,8 @@ A simple, interactive web application to help you track your monthly income and 
 
 ## 🚀 Quick Start
 
+## 📖 How to Use
+
 ### 1. **Add Your Income**
 
 - Click "+ Add Income Source" to add salary, freelance income, etc.
@@ -76,7 +78,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the https://github.com/LewisSteven2022/BudgetApp/issues page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/LewisSteven2022/BudgetApp/issues) page to report bugs or request features.
 
 ## 📄 License
 
