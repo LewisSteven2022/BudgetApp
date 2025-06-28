@@ -2,8 +2,6 @@
 
 A simple, interactive web application to help you track your monthly income and expenses. Built with vanilla HTML, CSS, and JavaScript - no frameworks required!
 
-![Budget Tracker Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Personal+Budget+Tracker)
-
 ## ✨ Features
 
 - **📊 Real-time Calculations** - See your budget update instantly as you type
@@ -16,42 +14,6 @@ A simple, interactive web application to help you track your monthly income and 
 - **🚀 Zero Dependencies** - Pure HTML, CSS, and JavaScript
 
 ## 🚀 Quick Start
-
-### Option 1: Deploy to Vercel (Recommended)
-
-1. Fork this repository
-2. Connect your GitHub account to [Vercel](https://vercel.com)
-3. Import your forked repository
-4. Deploy automatically!
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/personal-budget-tracker)
-
-### Option 2: Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/personal-budget-tracker.git
-   cd personal-budget-tracker
-   ```
-
-2. Open `index.html` in your browser, or serve it locally:
-
-   ```bash
-   npx serve .
-   ```
-
-3. Visit `http://localhost:3000`
-
-### Option 3: GitHub Pages
-
-1. Fork this repository
-2. Go to repository Settings > Pages
-3. Set source to "Deploy from a branch"
-4. Select `main` branch and `/ (root)` folder
-5. Your app will be available at `https://yourusername.github.io/personal-budget-tracker`
-
-## 📖 How to Use
 
 ### 1. **Add Your Income**
 
@@ -114,7 +76,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/yourusername/personal-budget-tracker/issues) page to report bugs or request features.
+Please use the https://github.com/LewisSteven2022/BudgetApp/issues page to report bugs or request features.
 
 ## 📄 License
 
