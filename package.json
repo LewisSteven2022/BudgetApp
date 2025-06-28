@@ -1,0 +1,30 @@
+{
+	"name": "personal-budget-tracker",
+	"version": "1.0.0",
+	"description": "A simple, interactive personal budget tracker to manage monthly income and expenses",
+	"main": "index.html",
+	"scripts": {
+		"dev": "npx serve .",
+		"build": "echo 'No build process needed for static site'",
+		"start": "npx serve ."
+	},
+	"keywords": [
+		"budget",
+		"finance",
+		"tracker",
+		"personal-finance",
+		"money-management",
+		"expenses",
+		"income"
+	],
+	"author": "Your Name",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yourusername/personal-budget-tracker.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yourusername/personal-budget-tracker/issues"
+	},
+	"homepage": "https://github.com/yourusername/personal-budget-tracker#readme"
+}
